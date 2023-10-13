@@ -30,20 +30,22 @@ Register for Hacktoberfest if you're yet to register and follow the instructions
 
 
 #### TO-DO 4:
-1. ##### Add your profile picture to this [folder](assets/images)
+1. ##### Add your profile picture to this folder `assets/images`
 Add a picture picture of your choice in `assets/images/<YOUR-USERNAME>.png`. Accepted files are png and jpg, Ex.
 
-assets/images/<YOUR-USERNAME>.png
+`assets/images/<YOUR-USERNAME>.png`
 
 2. ##### Navigate to `index.html` file, open it, read the instructions in the code, copy the contributing section and add your information
 
 3. ##### Change the class name for the image:
 `From this` 
+
 <div class="card_img card1">
     <div class="plus"></div>
 </div>
 
 `To`
+
 <div class="card_img card2">
     <div class="plus"></div>
 </div>
