@@ -1,9 +1,9 @@
-Contributing to OAU-GDSC-CLOUD-Hacktoberfest
+# Contributing to OAU-GDSC-CLOUD-Hacktoberfest
 
 Welcome to OAU-GDSC-CLOUD-Hacktoberfest! We're excited that you're interested in contributing to our open-source project. Whether you're a developer, tester, content writer, or a tech enthusiast, your contributions are highly valued.
 
 
-***Getting Started***
+### Getting Started
 
 *To get started, follow these steps:*
 
@@ -25,7 +25,7 @@ Welcome to OAU-GDSC-CLOUD-Hacktoberfest! We're excited that you're interested in
 
   7. **Create a Pull Request:** Go to the original repository and click the "New Pull Request" button to create a new PR with your changes. Please provide a clear description of your PR.
 
-***Contribution Guidelines***
+### Contribution Guidelines
 
 We encourage contributions that:
 
@@ -41,13 +41,13 @@ Please ensure your contributions adhere to the following guidelines:
    + Test your changes thoroughly and ensure they don't introduce new issues.
    + Be respectful and considerate in your interactions with other contributors.
 
-***Code of Conduct***
+### Code of Conduct
 
-We follow a Code of Conduct to ensure a welcoming and inclusive environment for all contributors. Please read and abide by this code.
+We follow a [Code of Conduct](CONTRIBUTING.md) to ensure a welcoming and inclusive environment for all contributors. Please read and abide by this code.
 Help and Support
 
-If you have questions or need assistance, feel free to reach out to us through [softcreations02@gmail.com]. We're here to help you throughout your contribution journey.
+If you have questions or need assistance, feel free to reach out to us [Here](softcreations02@gmail.com). We're here to help you throughout your contribution journey.
 
 Thank you for contributing to OAU-GDSC-CLOUD-Hacktoberfest. Your contributions make a difference, and we appreciate your support!
 
-Happy Hacking! 🚀
+Happy Codign & Hacking! 🚀
