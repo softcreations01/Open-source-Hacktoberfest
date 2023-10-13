@@ -1,6 +1,6 @@
 # OAU-GDSC/CLOUD-HactoberFest 2023 Pull Request - Free Swags & Rewards
 
-[HacktoberFest2023](image.png)
+![HacktoberFest2023](image.png)
 
 [Click to participate](https://hacktoberfest.com/participation/)
 
@@ -22,9 +22,9 @@ Register for Hacktoberfest if you're yet to register and follow the instructions
 
 * Create a new branch for your modifications/issues (ie. `git branch new-issue` and check it out `git checkout new-issue` or simply do `git checkout -b new-issue`)
 
-* Create a pull request and contribute
+* Make your contribution in Web Development Domain / AI/ML / Android Development and many more visit the Coders Folder, while if you are a non-coder then do not worry as you can still contribute by making your contribution in Technical Writing / Content Writing / Interview Experience in the non-coder folder.
 
-* To make your contribution in Web Development Domain / AI/ML / Competitive Programming / DSA Concepts / Android Development visit the Coders Folder, while if you are a non-coder then need not to worry as you can still contribute by making your contribution in Technical Writing / Content Writing / Interview Experience in the non-coder folder.
+* Create a pull request
 
 * Star this repository
 
@@ -40,20 +40,23 @@ Add a picture picture of your choice in `assets/images/<YOUR-USERNAME>.png`. Acc
 3. ##### Change the class name for the image:
 `From this` 
 
-<div class="card_img card1">
-    <div class="plus"></div>
-</div>
+- [ ] div class="card_img card1"
 
 `To`
 
-<div class="card_img card2">
-    <div class="plus"></div>
-</div>
+- [x] div class="card_img card2"
 
 4. ##### Now please navigate to `style.css` file, and add the new class `.card(as in your number)` along with the image path
-url('assets/images/<YOUR-USERNAME>.png')
+`url('assets/images/<YOUR-USERNAME>.png')`
+ i.e
+ 
+".card1{
 
-5. ##### Follow standard naming convention with all contents in its appropriate directory for all pull requests
+   background-image: url(assets/images/tousse.jpg);
+   
+}"
+
+5. ##### Follow standard naming convention with all contents in its appropriate directory for all contributions
 
 #### TO-DO 5:
 Wait for Pull request to merge, raise and solve issues and [follow me](https://github.com/softcreations01)
