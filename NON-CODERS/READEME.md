@@ -2,5 +2,5 @@ If you don't know programming but want to make your contribution to the open sou
 -> Technical Writing
 -> Content Writing
 -> Interview Experience
--> General articles
+-> General Articles
 -> Project Management
