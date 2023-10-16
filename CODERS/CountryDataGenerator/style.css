@@ -1,0 +1,58 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: grey;
+}
+.CountryCard{
+    background-color: rgba(238, 235, 235, 0.959);
+    width: 320px;
+    border-radius: 10px;
+}
+.CountryInfo {
+  padding: 30px;
+  height: 100%;
+  width: 100%;
+}
+.CountryInfo h2 {
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+.CountryInfo h3 {
+  margin-bottom: 15px;
+}
+.CountryInfo h1{
+    font-size: 25px;
+}
+.CountryCardBox{
+    display: grid;
+    grid-template-columns: 320px  320px 320px;
+    place-content: center;
+    gap: 40px;
+    margin-top: 5%;
+}
+.InputBox{
+    width: 200px;
+    height: 50px;
+    background-color:black;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+form{
+    transform: translateY(-60px);
+    position: fixed;
+    margin-left: 20px;
+}
+.GenerateBtn{
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(185, 51, 3);
+    border-style: none;
+    border-radius: 20px;
+}
