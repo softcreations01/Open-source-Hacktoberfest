@@ -299,3 +299,9 @@ input:focus {
   background-position: center;
   background-size: cover;
 }
+
+.card3 {
+  background: url(./assests/images/uozcan12.jpeg);
+  background-position: center;
+  background-size: cover;
+}
