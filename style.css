@@ -294,6 +294,11 @@ input:focus {
 .zoomed {
   width: 100%;
 }
+.card1 {
+  background: url(./assests/images/touuse.jpeg);
+  background-position: center;
+  background-size: cover;
+}
 .card2 {
   background: url(./assests/images/kabby.jpeg);
   background-position: center;
@@ -301,13 +306,12 @@ input:focus {
 }
 
 .card3 {
-=======
   background: url(./assests/images/Jonnie-Dev.png);
   background-position: center;
   background-size: cover;
 }
 
-.card3 {
+.card4 {
   background: url(./assests/images/Shashi3k.jpg);
   background-position: center;
   background-size: cover;
