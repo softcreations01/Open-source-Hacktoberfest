@@ -50,4 +50,4 @@ If you have questions or need assistance, feel free to reach out to us [Here](so
 
 Thank you for contributing to OAU-GDSC-CLOUD-Hacktoberfest. Your contributions make a difference, and we appreciate your support!
 
-Happy Codign & Hacking! 🚀
+Happy Coding & Hacking! 🚀
