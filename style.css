@@ -301,7 +301,14 @@ input:focus {
 }
 
 .card3 {
-  background: url(./assests/images/logo.jpg);
+=======
+  background: url(./assests/images/Jonnie-Dev.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.card3 {
+  background: url(./assests/images/Shashi3k.jpg);
   background-position: center;
   background-size: cover;
 }
