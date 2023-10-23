@@ -1,0 +1,51 @@
+html{
+    background: rgb(2,0,36);
+    /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(11,16,105,1) 37%, rgba(4,118,193,1) 70%, rgba(0,212,255,1) 100%); */
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    font-family: 'Kanit', sans-serif;
+}
+
+.neonText {
+    color: #fff;
+    text-shadow:
+      0 0 5px #fff,
+      0 0 7px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 10px #0fa;
+  }
+h1{
+    text-align: center;
+    color: #00fdcf9f;
+}
+div{
+    /* display: block;
+     */
+     width: fit-content;
+    margin: auto;
+    margin-top: 15%;
+}
+@media(max-width:500px){
+    div{
+        margin-top: 70%;
+    }
+}
+
+p{
+    margin: 10px;
+    color: #DCFCFF;
+    text-shadow: 0 0 5px #DCFCFF;
+}
+#day{
+    margin: 5%;
+}
+#dateD{
+    font-size: 15px;
+    text-align: center;
+}
+#time{
+    font-size: 50px;
+}
