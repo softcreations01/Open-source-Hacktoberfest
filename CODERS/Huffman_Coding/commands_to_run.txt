@@ -9,7 +9,7 @@ compressed.txt
 Select the option 1.Compress 2.Decompress
 (3) 1
 Compressed Successfully!
-
+ 
 To Decompress-
 (1) g++ Huffman.cpp -o main  
 (2) ./main compressed.txt decompressed.txt  
