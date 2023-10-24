@@ -38,7 +38,7 @@ Please ensure your contributions adhere to the following guidelines:
 
    + Write clean and maintainable code.
    + Include relevant documentation or update existing documentation.
-   + Test your changes thoroughly and ensure they don't introduce new issues.
+   + Test your changes thoroughly to ensure they don't introduce new issues.
    + Be respectful and considerate in your interactions with other contributors.
 
 ### Code of Conduct
