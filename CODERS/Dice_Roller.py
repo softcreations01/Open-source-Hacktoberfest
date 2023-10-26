@@ -1,4 +1,4 @@
-import random 
+import random
 rolling=True 
 while rolling == True:
     number=random.randrange(1,7)

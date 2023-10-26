@@ -322,3 +322,8 @@ input:focus {
     background-position: center;
     background-size: cover;
 }
+.card5{
+  background: url(./assests/images/John\ Adeolu.jpg);
+    background-position: center;
+    background-size: cover;
+}
