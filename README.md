@@ -1,6 +1,7 @@
-# OAU-GDSC/CLOUD-HactoberFest 2023 Pull Request - Free Swags & Rewards
+# HACKTOBERFEST-OPEN SOURCE PROJECT Pull Request - Free Swags & Rewards
 
-![HacktoberFest2023](image.png)
+![HacktoberFest2024](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/Hacktoberfest_2024_826-2.jpg)
+
 
 [Click to participate](https://hacktoberfest.com/participation/)
 
